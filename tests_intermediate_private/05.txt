@@ -1,0 +1,4 @@
+tests all shows
+tests creation of new file (should ask for save)
+tests open file (should not ask for save)
+tests all shows  (should be different from original imports)

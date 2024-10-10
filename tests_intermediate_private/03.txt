@@ -1,0 +1,3 @@
+tests all shows
+tests creation of new file (if you save or not)
+tests all shows to make sure they havent been altered (since we just saved)

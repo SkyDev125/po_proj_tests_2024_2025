@@ -1,0 +1,2 @@
+tests all shows
+tests creation of new file (if you save or not)
