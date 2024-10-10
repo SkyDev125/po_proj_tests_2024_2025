@@ -5,8 +5,9 @@ This repo will hold all the public and custom made tests for the PO project of t
 ## How to use
 
 1. Clone this repo.
-2. Run the tests you want (see below).
-3. Pull Request to add more tests to this repo!
+2. change the scripts to use the correct path for your app.
+3. Run the tests you want (see below).
+4. Pull Request to add more tests to this repo!
 
 ## Running the tests
 
