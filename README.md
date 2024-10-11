@@ -11,6 +11,12 @@ This repo will hold all the public and custom made tests for the PO project of t
 
 ## Running the tests
 
+Make sure you allow the scripts to be executed by running the following command:
+
+```bash
+chmod +x runtests_*.sh
+```
+
 ### Intermediate tests
 
 To run the intermediate tests, run the following command:
