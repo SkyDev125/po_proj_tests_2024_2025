@@ -1,5 +1,5 @@
 tests all shows
 tests creation of new file (should ask for save)
-tests all shows to make sure they havent been altered (since we just saved)
+tests all shows to make sure they are empty
 tries to create a new file (shouldnt ask for save)
 tests all shows again (should be empty)
