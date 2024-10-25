@@ -39,7 +39,7 @@ Gestão de Funcionários
 Escolha uma opção: 4
 Identificador único do funcionário: w1
 Identificador único da responsabilidade: h1
-Retirar responsabilidade: Operação inválida: Responsabilidade (habitat ou espécie) 'h1' não atribuída ao funcionário 'W1'.
+Retirar responsabilidade: Operação inválida: Responsabilidade (habitat ou espécie) 'h1' não atribuída ao funcionário 'w1'.
 Gestão de Funcionários
 1 - Visualizar todos os funcionários
 2 - Registar funcionário
@@ -187,7 +187,7 @@ Gestão de Funcionários
 Escolha uma opção: 4
 Identificador único do funcionário: w1
 Identificador único da responsabilidade: h1
-Retirar responsabilidade: Operação inválida: Responsabilidade (habitat ou espécie) 'h1' não atribuída ao funcionário 'W1'.
+Retirar responsabilidade: Operação inválida: Responsabilidade (habitat ou espécie) 'h1' não atribuída ao funcionário 'w1'.
 Gestão de Funcionários
 1 - Visualizar todos os funcionários
 2 - Registar funcionário

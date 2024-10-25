@@ -250,7 +250,7 @@ Gestão de Funcionários
 Escolha uma opção: 4
 Identificador único do funcionário: v1
 Identificador único da responsabilidade: e1
-Retirar responsabilidade: Operação inválida: Responsabilidade (habitat ou espécie) 'e1' não atribuída ao funcionário 'V1'.
+Retirar responsabilidade: Operação inválida: Responsabilidade (habitat ou espécie) 'e1' não atribuída ao funcionário 'v1'.
 Gestão de Funcionários
 1 - Visualizar todos os funcionários
 2 - Registar funcionário
