@@ -10,31 +10,7 @@ Menu Principal
 9 - Gestão de vacinas
 10 - Consultas
 0 - Sair
-Escolha uma opção: Gestão de Habitats
-1 - Visualizar todos os habitats
-2 - Registar habitat
-3 - Alterar área de habitat
-4 - Alterar influência de habitat sobre espécie
-5 - Plantar árvore
-6 - Mostrar árvores de habitat
-0 - Sair
-Escolha uma opção: Identificador único do habitat: Nome do habitat: Área do habitat: Gestão de Habitats
-1 - Visualizar todos os habitats
-2 - Registar habitat
-3 - Alterar área de habitat
-4 - Alterar influência de habitat sobre espécie
-5 - Plantar árvore
-6 - Mostrar árvores de habitat
-0 - Sair
-Escolha uma opção: Identificador único do habitat: Nome do habitat: Área do habitat: Gestão de Habitats
-1 - Visualizar todos os habitats
-2 - Registar habitat
-3 - Alterar área de habitat
-4 - Alterar influência de habitat sobre espécie
-5 - Plantar árvore
-6 - Mostrar árvores de habitat
-0 - Sair
-Escolha uma opção: Identificador único do habitat: Nome do habitat: Área do habitat: Registar habitat: Operação inválida: O habitat 'z' já existe.
+Escolha uma opção: 8
 Gestão de Habitats
 1 - Visualizar todos os habitats
 2 - Registar habitat
@@ -43,7 +19,45 @@ Gestão de Habitats
 5 - Plantar árvore
 6 - Mostrar árvores de habitat
 0 - Sair
-Escolha uma opção: HABITAT|a|23|23|0
+Escolha uma opção: 2
+Identificador único do habitat: a
+Nome do habitat: 23
+Área do habitat: 23
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 2
+Identificador único do habitat: z
+Nome do habitat: nome
+Área do habitat: 1
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 2
+Identificador único do habitat: z
+Nome do habitat: novo
+Área do habitat: 500
+Registar habitat: Operação inválida: O habitat 'z' já existe.
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 1
+HABITAT|a|23|23|0
 HABITAT|z|nome|1|0
 Gestão de Habitats
 1 - Visualizar todos os habitats
@@ -53,7 +67,8 @@ Gestão de Habitats
 5 - Plantar árvore
 6 - Mostrar árvores de habitat
 0 - Sair
-Escolha uma opção: Menu Principal
+Escolha uma opção: 0
+Menu Principal
 1 - Criar ficheiro
 2 - Abrir ficheiro
 3 - Guardar ficheiro
@@ -65,4 +80,4 @@ Escolha uma opção: Menu Principal
 9 - Gestão de vacinas
 10 - Consultas
 0 - Sair
-Escolha uma opção: 
+Escolha uma opção: 0
