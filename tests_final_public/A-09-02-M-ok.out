@@ -10,20 +10,27 @@ Menu Principal
 9 - Gestão de vacinas
 10 - Consultas
 0 - Sair
-Escolha uma opção: Gestão de Animais
-1 - Visualizar todos os animais
-2 - Registar animal
-3 - Transferir para habitat
-4 - Calcular satisfação de animal
-0 - Sair
-Escolha uma opção: Identificador único do animal: Nome do animal: Identificador único da espécie: Identificador único do habitat: Registar animal: Operação inválida: O habitat 'hh1' não existe.
+Escolha uma opção: 6
 Gestão de Animais
 1 - Visualizar todos os animais
 2 - Registar animal
 3 - Transferir para habitat
 4 - Calcular satisfação de animal
 0 - Sair
-Escolha uma opção: Menu Principal
+Escolha uma opção: 2
+Identificador único do animal: a1
+Nome do animal: animal1
+Identificador único da espécie: C10
+Identificador único do habitat: hh1
+Registar animal: Operação inválida: O habitat 'hh1' não existe.
+Gestão de Animais
+1 - Visualizar todos os animais
+2 - Registar animal
+3 - Transferir para habitat
+4 - Calcular satisfação de animal
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
 1 - Criar ficheiro
 2 - Abrir ficheiro
 3 - Guardar ficheiro
@@ -35,4 +42,4 @@ Escolha uma opção: Menu Principal
 9 - Gestão de vacinas
 10 - Consultas
 0 - Sair
-Escolha uma opção: 
+Escolha uma opção: 0

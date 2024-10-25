@@ -10,7 +10,8 @@ Menu Principal
 9 - Gestão de vacinas
 10 - Consultas
 0 - Sair
-Escolha uma opção: Gestão de Habitats
+Escolha uma opção: 8
+Gestão de Habitats
 1 - Visualizar todos os habitats
 2 - Registar habitat
 3 - Alterar área de habitat
@@ -18,7 +19,8 @@ Escolha uma opção: Gestão de Habitats
 5 - Plantar árvore
 6 - Mostrar árvores de habitat
 0 - Sair
-Escolha uma opção: HABITAT|AR1|Aldeia dos Macacos|20|0
+Escolha uma opção: 1
+HABITAT|AR1|Aldeia dos Macacos|20|0
 HABITAT|AR2|Aldeia dos Macacos 1|200|0
 HABITAT|ZZ1|Aldeia dos Macacos 2|50|0
 Gestão de Habitats
@@ -29,7 +31,8 @@ Gestão de Habitats
 5 - Plantar árvore
 6 - Mostrar árvores de habitat
 0 - Sair
-Escolha uma opção: Menu Principal
+Escolha uma opção: 0
+Menu Principal
 1 - Criar ficheiro
 2 - Abrir ficheiro
 3 - Guardar ficheiro
@@ -41,4 +44,4 @@ Escolha uma opção: Menu Principal
 9 - Gestão de vacinas
 10 - Consultas
 0 - Sair
-Escolha uma opção: 
+Escolha uma opção: 0
