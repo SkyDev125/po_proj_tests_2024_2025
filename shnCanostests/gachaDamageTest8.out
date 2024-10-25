@@ -68,9 +68,10 @@ Consultas
 3 - Actos médicos de um veterinário
 4 - Vacinações com problemas
 0 - Sair
-Escolha uma opção: 2
-Identificador único do animal: Vet1
-Actos médicos num animal: Operação inválida: O animal 'Vet1' não existe.
+Escolha uma opção: 3
+Identificador único do funcionário: Vet1
+REGISTO-VACINA|VacGood|Vet1|E1
+REGISTO-VACINA|VacBad|Vet1|E1
 Consultas
 1 - Animais de um habitat
 2 - Actos médicos num animal
