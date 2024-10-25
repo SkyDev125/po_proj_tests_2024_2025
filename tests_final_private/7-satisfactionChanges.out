@@ -1,0 +1,337 @@
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 5
+2246
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 4
+1
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 5
+2246
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 4
+2
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 8
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 5
+Identificador único do habitat: h1
+Identificador único da árvore: na1
+Nome da árvore: Boneca
+Idade da árvore: 12
+Dificuldade de limpeza da árvore: 12
+Tipo de árvore: (CADUCA ou PERENE) CADUCA
+ÁRVORE|na1|Boneca|12|12|CADUCA|LARGARFOLHAS
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 5
+Identificador único do habitat: h1
+Identificador único da árvore: na2
+Nome da árvore: boneCa2
+Idade da árvore: 0
+Dificuldade de limpeza da árvore: 2
+Tipo de árvore: (CADUCA ou PERENE) PERENE
+ÁRVORE|na2|boneCa2|0|2|PERENE|COMFOLHAS
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 5
+2246
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 8
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 3
+Identificador único do habitat: h1
+Área do habitat: 120
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 6
+Identificador único do habitat: h1
+ÁRVORE|A2|Pinheiro|10|30|CADUCA|LARGARFOLHAS
+ÁRVORE|A3|Eucalipto|15|40|PERENE|COMFOLHAS
+ÁRVORE|A4|Cedro|20|50|CADUCA|LARGARFOLHAS
+ÁRVORE|A5|Choupo|25|60|PERENE|COMFOLHAS
+ÁRVORE|A6|Salgueiro|30|70|CADUCA|LARGARFOLHAS
+ÁRVORE|na1|Boneca|12|12|CADUCA|LARGARFOLHAS
+ÁRVORE|na2|boneCa2|0|2|PERENE|COMFOLHAS
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 5
+2346
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 8
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 4
+Identificador único do habitat: h1
+Identificador único da espécie: e1
+Influência (positiva, negativa, neutra: POS, NEG, NEU): thisshouldfail
+Influência (positiva, negativa, neutra: POS, NEG, NEU): NEG
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 1
+HABITAT|H1|Aldeia dos Macacos 1|120|7
+ÁRVORE|A2|Pinheiro|10|30|CADUCA|LARGARFOLHAS
+ÁRVORE|A3|Eucalipto|15|40|PERENE|COMFOLHAS
+ÁRVORE|A4|Cedro|20|50|CADUCA|LARGARFOLHAS
+ÁRVORE|A5|Choupo|25|60|PERENE|COMFOLHAS
+ÁRVORE|A6|Salgueiro|30|70|CADUCA|LARGARFOLHAS
+ÁRVORE|na1|Boneca|12|12|CADUCA|LARGARFOLHAS
+ÁRVORE|na2|boneCa2|0|2|PERENE|COMFOLHAS
+HABITAT|H10|Aldeia dos Macacos 10|1020|0
+HABITAT|h11|Aldeia dos Macacos 11|920|0
+HABITAT|H2|Aldeia dos Macacos 2|220|5
+ÁRVORE|A1|Carvalho|5|20|PERENE|COMFOLHAS
+ÁRVORE|A10|Videira|50|110|CADUCA|LARGARFOLHAS
+ÁRVORE|a11|Tília|45|100|PERENE|COMFOLHAS
+ÁRVORE|A7|Freixo|35|80|PERENE|COMFOLHAS
+ÁRVORE|A8|Olmo|40|90|CADUCA|LARGARFOLHAS
+HABITAT|H3|Aldeia dos Macacos 3|320|0
+HABITAT|H4|Aldeia dos Macacos 4|420|0
+HABITAT|H5|Aldeia dos Macacos 5|520|0
+HABITAT|H6|Aldeia dos Macacos 6|620|0
+HABITAT|H7|Aldeia dos Macacos 7|720|0
+HABITAT|H8|Aldeia dos Macacos 8|820|0
+Gestão de Habitats
+1 - Visualizar todos os habitats
+2 - Registar habitat
+3 - Alterar área de habitat
+4 - Alterar influência de habitat sobre espécie
+5 - Plantar árvore
+6 - Mostrar árvores de habitat
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 5
+2306
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 4
+3
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 5
+2306
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 4
+0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 5
+2306
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 0

@@ -1,0 +1,7 @@
+ESPÉCIE|E1|pooopo
+ESPÉCIE|E2|opooo1
+HABITAT|H1|Aldeia dos Macacos 5|420
+ANIMAL|AA1|Patudo|E1|H1
+VACINA|VacGood|nome 1|E1
+VACINA|VacBad|nome 2|E2
+VETERINÁRIO|Vet1|Vet One|E1

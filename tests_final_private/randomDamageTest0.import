@@ -1,0 +1,11 @@
+ESPÉCIE|E1|banana
+ESPÉCIE|E2|Banana1
+ESPÉCIE|E3|Ananaba
+ESPÉCIE|E4|Aaanana
+ESPÉCIE|E5|nanaabba
+ESPÉCIE|E6|aadasdadadasd
+HABITAT|H1|Aldeia dos Macacos 5|420
+ANIMAL|AA1|Patudo|E1|H1
+VACINA|VacGood|nome 1|E1
+VACINA|VacBad|nome 2|E2,E3,E4,E5,E6
+VETERINÁRIO|Vet1|Vet One|E1
