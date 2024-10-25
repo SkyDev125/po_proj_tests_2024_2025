@@ -1,0 +1,354 @@
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 10
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 1
+Identificador único do habitat: h1
+ANIMAL|AA1|Bolt|E1|VOID|H1
+ANIMAL|AA10|Oscar|E10|VOID|H1
+ANIMAL|AA2|Juno|E1|VOID|H1
+ANIMAL|AA3|Caju|E3|VOID|H1
+ANIMAL|AA4|Dumbo|E4|VOID|H1
+ANIMAL|AA5|Eva|E5|VOID|H1
+ANIMAL|AA6|Fido|E6|VOID|H1
+ANIMAL|AA7|Gina|E7|VOID|H1
+ANIMAL|AA8|Merica|E8|VOID|H1
+ANIMAL|AA9|Nuno|E9|VOID|H1
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 2
+Identificador único do animal: a1
+Actos médicos num animal: Operação inválida: O animal 'a1' não existe.
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 2
+Identificador único do animal: aa1
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 4
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 7
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 3
+Identificador único do funcionário: v1
+Identificador único da responsabilidade: e1
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 1
+VET|V1|José|E1
+VET|V10|Rita
+VET|v11|Diana
+VET|V2|Sofia
+VET|V3|Carlos
+TRT|W1|João
+TRT|W10|Pedro
+TRT|w11|Ana
+TRT|W2|Maria
+TRT|W3|Manuel
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 10
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 1
+Identificador único do habitat: h1
+ANIMAL|AA1|Bolt|E1|VOID|H1
+ANIMAL|AA10|Oscar|E10|VOID|H1
+ANIMAL|AA2|Juno|E1|VOID|H1
+ANIMAL|AA3|Caju|E3|VOID|H1
+ANIMAL|AA4|Dumbo|E4|VOID|H1
+ANIMAL|AA5|Eva|E5|VOID|H1
+ANIMAL|AA6|Fido|E6|VOID|H1
+ANIMAL|AA7|Gina|E7|VOID|H1
+ANIMAL|AA8|Merica|E8|VOID|H1
+ANIMAL|AA9|Nuno|E9|VOID|H1
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 2
+Identificador único do animal: a1
+Actos médicos num animal: Operação inválida: O animal 'a1' não existe.
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 2
+Identificador único do animal: aa1
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 4
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 7
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 3
+Identificador único do funcionário: v1
+Identificador único da responsabilidade: e1
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 1
+VET|V1|José|E1
+VET|V10|Rita
+VET|v11|Diana
+VET|V2|Sofia
+VET|V3|Carlos
+TRT|W1|João
+TRT|W10|Pedro
+TRT|w11|Ana
+TRT|W2|Maria
+TRT|W3|Manuel
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 4
+Identificador único do funcionário: v1
+Identificador único da responsabilidade: e1
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 1
+VET|V1|José
+VET|V10|Rita
+VET|v11|Diana
+VET|V2|Sofia
+VET|V3|Carlos
+TRT|W1|João
+TRT|W10|Pedro
+TRT|w11|Ana
+TRT|W2|Maria
+TRT|W3|Manuel
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 4
+Identificador único do funcionário: v1
+Identificador único da responsabilidade: e1
+Retirar responsabilidade: Operação inválida: Responsabilidade (habitat ou espécie) 'e1' não atribuída ao funcionário 'V1'.
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 1
+VET|V1|José
+VET|V10|Rita
+VET|v11|Diana
+VET|V2|Sofia
+VET|V3|Carlos
+TRT|W1|João
+TRT|W10|Pedro
+TRT|w11|Ana
+TRT|W2|Maria
+TRT|W3|Manuel
+Gestão de Funcionários
+1 - Visualizar todos os funcionários
+2 - Registar funcionário
+3 - Atribuir responsabilidade
+4 - Retirar responsabilidade
+5 - Calcular satisfação de funcionário
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 10
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 1
+Identificador único do habitat: h1
+ANIMAL|AA1|Bolt|E1|VOID|H1
+ANIMAL|AA10|Oscar|E10|VOID|H1
+ANIMAL|AA2|Juno|E1|VOID|H1
+ANIMAL|AA3|Caju|E3|VOID|H1
+ANIMAL|AA4|Dumbo|E4|VOID|H1
+ANIMAL|AA5|Eva|E5|VOID|H1
+ANIMAL|AA6|Fido|E6|VOID|H1
+ANIMAL|AA7|Gina|E7|VOID|H1
+ANIMAL|AA8|Merica|E8|VOID|H1
+ANIMAL|AA9|Nuno|E9|VOID|H1
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 2
+Identificador único do animal: a1
+Actos médicos num animal: Operação inválida: O animal 'a1' não existe.
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 2
+Identificador único do animal: aa1
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 4
+Consultas
+1 - Animais de um habitat
+2 - Actos médicos num animal
+3 - Actos médicos de um veterinário
+4 - Vacinações com problemas
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 0
