@@ -39,5 +39,6 @@ To run all the tests, run the following command:
 2. Add your tests.
 3. Run the tests.
 4. If they pass, (and make sense for the project) make a Pull Request.
+5. The private tests folders are for the tests that were added through contributions.
 
 If you dont know how to do a pull request, please contact me directly and I will help you out. (discord: sky124)
