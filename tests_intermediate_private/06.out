@@ -301,7 +301,7 @@ Gestão de Vacinas
 Escolha uma opção: 1
 VACINA|VA1|Tétano|0
 VACINA|VA10|Febre|0|E6,E7,E8,E9
-VACINA|va11|Gripe|0|E3,E4,E5,e13
+VACINA|va11|Gripe|0|e13,E3,E4,E5
 VACINA|VA2|Raiva|0|E1,E2
 Gestão de Vacinas
 1 - Visualizar todas as vacinas
