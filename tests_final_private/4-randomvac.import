@@ -1,0 +1,11 @@
+ESPÉCIE|E1|Cão
+ESPÉCIE|E2|Gato
+ESPÉCIE|E3|Leão
+ESPÉCIE|E4|Tigre
+ESPÉCIE|E5|Macaco
+ESPÉCIE|E6|Epicness
+HABITAT|H1|Aldeia dos Macacos 5|420
+ANIMAL|AA1|Patudo|E1|H1
+VACINA|VacGood|nome 1|E1
+VACINA|VacBad|nome 2|E2,E3,E4,E5,E6
+VETERINÁRIO|Vet1|Vet One|E1

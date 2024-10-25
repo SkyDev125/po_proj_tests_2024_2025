@@ -31,7 +31,6 @@ Escolha uma opção: 3
 Identificador da vacina: VacBad
 Identficador do veterinário a ministrar a vacina: Vet1
 Identificador único do animal: AA1
-the applied damage is: 17
 A vacina 'VacBad' não é apropiada para o animal 'AA1'.
 Gestão de Vacinas
 1 - Visualizar todas as vacinas
@@ -100,7 +99,7 @@ Gestão de Animais
 4 - Calcular satisfação de animal
 0 - Sair
 Escolha uma opção: 1
-ANIMAL|AA1|Patudo|E1|NORMAL,ERRO|H1
+ANIMAL|AA1|Patudo|E1|NORMAL,ACIDENTE|H1
 Gestão de Animais
 1 - Visualizar todos os animais
 2 - Registar animal

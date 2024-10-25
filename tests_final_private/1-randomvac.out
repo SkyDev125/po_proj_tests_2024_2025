@@ -1,0 +1,215 @@
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 9
+Gestão de Vacinas
+1 - Visualizar todas as vacinas
+2 - Registar vacina
+3 - Vacinar animal
+4 - Mostrar vacinações
+0 - Sair
+Escolha uma opção: 3
+Identificador da vacina: Vac3
+Identficador do veterinário a ministrar a vacina: Vet3
+Identificador único do animal: AA3
+Gestão de Vacinas
+1 - Visualizar todas as vacinas
+2 - Registar vacina
+3 - Vacinar animal
+4 - Mostrar vacinações
+0 - Sair
+Escolha uma opção: 1
+VACINA|Vac1|nome 1|0|E1
+VACINA|Vac2|nome 2|0|E2
+VACINA|Vac3|nome 3|1|E1,E2
+Gestão de Vacinas
+1 - Visualizar todas as vacinas
+2 - Registar vacina
+3 - Vacinar animal
+4 - Mostrar vacinações
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 5
+407
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 6
+Gestão de Animais
+1 - Visualizar todos os animais
+2 - Registar animal
+3 - Transferir para habitat
+4 - Calcular satisfação de animal
+0 - Sair
+Escolha uma opção: 1
+ANIMAL|AA1|Patudo|E1|VOID|H1
+ANIMAL|AA2|Patudo 2|E1|VOID|H1
+ANIMAL|AA3|Malhado|E2|NORMAL|H1
+Gestão de Animais
+1 - Visualizar todos os animais
+2 - Registar animal
+3 - Transferir para habitat
+4 - Calcular satisfação de animal
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 9
+Gestão de Vacinas
+1 - Visualizar todas as vacinas
+2 - Registar vacina
+3 - Vacinar animal
+4 - Mostrar vacinações
+0 - Sair
+Escolha uma opção: 3
+Identificador da vacina: Vac1
+Identficador do veterinário a ministrar a vacina: Vet1
+Identificador único do animal: AA3
+Vacinar animal: Operação inválida: O veterinário 'Vet1' não pode ministrar vacinas à espécie 'E2'
+Gestão de Vacinas
+1 - Visualizar todas as vacinas
+2 - Registar vacina
+3 - Vacinar animal
+4 - Mostrar vacinações
+0 - Sair
+Escolha uma opção: 3
+Identificador da vacina: Vac2
+Identficador do veterinário a ministrar a vacina: Vet3
+Identificador único do animal: AA2
+A vacina 'Vac2' não é apropiada para o animal 'AA2'.
+Gestão de Vacinas
+1 - Visualizar todas as vacinas
+2 - Registar vacina
+3 - Vacinar animal
+4 - Mostrar vacinações
+0 - Sair
+Escolha uma opção: 3
+Identificador da vacina: Vac3
+Identficador do veterinário a ministrar a vacina: Vet2
+Identificador único do animal: AA1
+Vacinar animal: Operação inválida: O veterinário 'Vet2' não pode ministrar vacinas à espécie 'E1'
+Gestão de Vacinas
+1 - Visualizar todas as vacinas
+2 - Registar vacina
+3 - Vacinar animal
+4 - Mostrar vacinações
+0 - Sair
+Escolha uma opção: 3
+Identificador da vacina: Vac3
+Identficador do veterinário a ministrar a vacina: Vet1
+Identificador único do animal: AA2
+Gestão de Vacinas
+1 - Visualizar todas as vacinas
+2 - Registar vacina
+3 - Vacinar animal
+4 - Mostrar vacinações
+0 - Sair
+Escolha uma opção: 3
+Identificador da vacina: Vac3
+Identficador do veterinário a ministrar a vacina: Vet2
+Identificador único do animal: AA1
+Vacinar animal: Operação inválida: O veterinário 'Vet2' não pode ministrar vacinas à espécie 'E1'
+Gestão de Vacinas
+1 - Visualizar todas as vacinas
+2 - Registar vacina
+3 - Vacinar animal
+4 - Mostrar vacinações
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 5
+407
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 6
+Gestão de Animais
+1 - Visualizar todos os animais
+2 - Registar animal
+3 - Transferir para habitat
+4 - Calcular satisfação de animal
+0 - Sair
+Escolha uma opção: 1
+ANIMAL|AA1|Patudo|E1|VOID|H1
+ANIMAL|AA2|Patudo 2|E1|ACIDENTE,NORMAL|H1
+ANIMAL|AA3|Malhado|E2|NORMAL|H1
+Gestão de Animais
+1 - Visualizar todos os animais
+2 - Registar animal
+3 - Transferir para habitat
+4 - Calcular satisfação de animal
+0 - Sair
+Escolha uma opção: 0
+Menu Principal
+1 - Criar ficheiro
+2 - Abrir ficheiro
+3 - Guardar ficheiro
+4 - Avançar estação do ano
+5 - Ver satisfação global
+6 - Gestão de animais
+7 - Gestão de funcionários
+8 - Gestão de habitats
+9 - Gestão de vacinas
+10 - Consultas
+0 - Sair
+Escolha uma opção: 0
