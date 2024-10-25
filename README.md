@@ -41,3 +41,5 @@ To run all the tests, run the following command:
 4. If they pass, (and make sense for the project) make a Pull Request.
 
 If you dont know how to do a pull request, please contact me directly and I will help you out. (discord: sky124)
+
+PS: Use the runtests_v1.sh for now as the teacher hasnt yet published the V2 of the tests that the other scripts were built for.
