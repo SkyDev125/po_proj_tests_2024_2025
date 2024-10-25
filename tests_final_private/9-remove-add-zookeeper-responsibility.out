@@ -185,9 +185,9 @@ Gestão de Funcionários
 5 - Calcular satisfação de funcionário
 0 - Sair
 Escolha uma opção: 4
-Identificador único do funcionário: h1
-Identificador único da responsabilidade: w1
-Retirar responsabilidade: Operação inválida: O funcionário 'h1' não existe.
+Identificador único do funcionário: w1
+Identificador único da responsabilidade: h1
+Retirar responsabilidade: Operação inválida: Responsabilidade (habitat ou espécie) 'h1' não atribuída ao funcionário 'W1'.
 Gestão de Funcionários
 1 - Visualizar todos os funcionários
 2 - Registar funcionário
